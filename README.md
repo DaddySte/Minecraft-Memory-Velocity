@@ -23,14 +23,6 @@ Follow these steps to incorporate and utilize the SafeKnockback module for Veloc
 
 This module is developed to refine knockback mechanics while maintaining fair gameplay. It is not intended for exploiting or disrupting the gaming environment. Responsible use of this module is recommended, considering its impact on the overall player experience.
 
-## Support
-
-If you find value in this SafeKnockback module and wish to extend support:
-
-[![Support Me](https://img.shields.io/badge/Support%20Me-Donate-green.svg)]([https://example.com/donate](https://streamelements.com/disabler/tip))
-
-Your support motivates the creation of additional modules and enhancements to enrich the Velocity Minecraft experience.
-
 ## License
 
 This module operates under the MIT License - consult the [LICENSE](LICENSE) file for further information.
